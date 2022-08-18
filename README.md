@@ -5,13 +5,14 @@
 ## THIS IS A NEW, BLANK REPO THAT IS NOT READY FOR USE YET.  PLEASE CHECK BACK SOON!
 
 ## Introduction
-MISSING
+
+This module is designed to provide a convient way to configure a Certificate Authority, Certificates and a Certificate Bundle. Either by providing all the necessary attributes (necessary for a production use case) or to create tactical self signed resources which are sufficient for a non production and proof of concept use case.
 
 ## Getting Started
-MISSING
+The module includes examples which will illustrate how to setup the module configuration.
 
 ### Prerequisites
-MISSING
+For production all the necessary values to create a valid certificate. Details are identified in the inputs
 
 ## Notes/Issues
 MISSING
